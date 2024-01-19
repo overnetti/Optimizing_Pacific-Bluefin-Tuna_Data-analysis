@@ -1,7 +1,7 @@
 # Optimizing Pacific Bluefin Tuna: A Seasonal Data Analysis to Maximize Fishing Success
 
 ## Abstract
-This data science project focuses on optimizing sportfishing for Pacific Bluefin Tuna off the coast of San Diego by analyzing seasonal patterns and oceanic conditions. The objective is to identify the most favorable time of the year to maximize Pacific Bluefin Tuna catches. The project integrates data from verious sources to explore correlations between sportfishing catches, weather temperatures, and sea surface temperatures. 
+This data science project focuses on optimizing sportfishing for Pacific Bluefin Tuna off the coast of San Diego by analyzing seasonal patterns and oceanic conditions. The objective is to identify the most favorable time of the year to maximize Pacific Bluefin Tuna catches. The project integrates data from various sources to explore correlations between sportfishing catches, weather temperatures, and sea surface temperatures. 
 
 ## Introduction
 Sportfishing enthusiasts and commercial fishermen are often interested in maximizing their success rate when targeting specific species. In this project, we delve into Pacific Bluefin Tuna sportfishing specifically in order to uncover patterns that can enhance catch success. By analyzing data from the year 2020, we explore correlations between sportfishing catches and environmental factors such as weather and sea surface temperatures.
